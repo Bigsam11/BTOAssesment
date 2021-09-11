@@ -1,0 +1,15 @@
+﻿High level overview of replicating the functionality  in another language:-
+
+The idea is to expose an interface from the current language in use to another, which is  following the DRY principle that says Dont Repeat Yourself.
+Therefore if a functionality to recite a poem  in c# already exists,there's no need to re-write in another language,instead the functionality should be
+extended to the new language,or made available to another language.And the best way to do that would be to expose the functionality via an API(Application programming interface),
+This basically allows one to plug into an existing functionality written in a different language.Because the logic has been implemented and encapsulated in c#,
+The same should not be done in another language,i would just tap into the API using the synthax of the new language to use the functionality already implemented.
+In this case,the same data integrity would exist across all framework i.e the end result of the same function written in c# would exist if it were to be consumed
+and utilized in java.
+
+That is the way i would go by this process.
+
+
+
+ 
