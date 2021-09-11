@@ -1,0 +1,17 @@
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.AssemblyReference.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfoInputs.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfo.cs
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.exe
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.deps.json
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.runtimeconfig.json
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.runtimeconfig.dev.json
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.dll
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\Solutions.pdb
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\BTOAssesment.classLibrary.dll
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\bin\Debug\netcoreapp3.1\BTOAssesment.classLibrary.pdb
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.CopyComplete
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.dll
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.pdb
+C:\Users\Oluwatobiloba\Music\BTOAssesment\Solutions\obj\Debug\netcoreapp3.1\Solutions.genruntimeconfig.cache

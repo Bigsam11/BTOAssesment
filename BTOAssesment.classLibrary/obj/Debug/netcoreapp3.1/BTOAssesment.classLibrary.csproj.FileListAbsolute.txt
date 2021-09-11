@@ -1,0 +1,10 @@
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\bin\Debug\netcoreapp3.1\BTOAssesment.classLibrary.deps.json
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\bin\Debug\netcoreapp3.1\BTOAssesment.classLibrary.dll
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\bin\Debug\netcoreapp3.1\BTOAssesment.classLibrary.pdb
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.csproj.AssemblyReference.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.AssemblyInfoInputs.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.AssemblyInfo.cs
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.dll
+C:\Users\Oluwatobiloba\Music\BTOAssesment\BTOAssesment.classLibrary\obj\Debug\netcoreapp3.1\BTOAssesment.classLibrary.pdb

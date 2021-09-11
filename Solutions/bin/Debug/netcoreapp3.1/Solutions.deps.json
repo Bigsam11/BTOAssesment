@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Solutions/1.0.0": {
+        "dependencies": {
+          "BTOAssesment.classLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Solutions.dll": {}
+        }
+      },
+      "BTOAssesment.classLibrary/1.0.0": {
+        "runtime": {
+          "BTOAssesment.classLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BTOAssesment.classLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
